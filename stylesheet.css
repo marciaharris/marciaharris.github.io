@@ -1,0 +1,23 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;git 
+    width: 25%;
+  }
+  
+body {
+    background-image: url( https://wallpapers.com/images/featured/outer-space-3pae4flbryaputyl.jpg);
+}
+p {
+   color: #66341C;
+   background-color:bisque;
+   width: 1000px;
+   height: 60px;
+   font-family: "Trirong", serif;
+   text-align: center;
+}
+h1, h2, h3 {
+    color:#ffffff;
+    text-align: center;
+    font-family: "Gabarito", serif;
+}
